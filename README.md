@@ -5,4 +5,7 @@ The aim of this project is to accurately predict the number of new subscribers i
 
 ![Quarterly subs](https://github.com/Kamuthuj/Netflix-customer-forecasting/assets/121629618/9a1970bd-e6ea-4b9a-a823-e12943ca5327)
 
+I performed the same operation to check on the yearly subscription rate.
+
+
 
