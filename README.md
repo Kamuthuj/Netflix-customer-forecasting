@@ -13,7 +13,7 @@ I utilized time series forecasting using ARIMA to forecast the number of subscri
 ![AR](https://github.com/Kamuthuj/Netflix-customer-forecasting/assets/121629618/bacdf252-a3b5-49dd-9120-92fe9c0e3cfa)
 Based on the plots, we find that p=1 and q=1. The ACF plot cuts off at lag 1, indicating q=1, and the PACF plot also cuts off at lag 1, indicating p=1. As there is a linear trend in the subscription growth rate, we can set the value of d as 1 to remove the linear trend, making the time series stationary.
 
-I forecasted for the next 5 quarters and plotted the visualization which showed an upward growth as witnessed and joined it with the original data frame.
+I forecasted for the next 5 quarters and plotted the visualization which showed an upward trend of new subscribers over time.
 
 
 
