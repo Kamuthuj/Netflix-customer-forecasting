@@ -3,7 +3,6 @@
 
 The aim of this project is to accurately predict the number of new subscribers in a given period to better understand the growth potential of the business.The dataset contains subscription counts of Netflix at the start of each quarter from 2013 to 2023. The data was clean and did not have null values. I converted the date to its right data type before analysis. I created a new column to check on the quarterly growth rate by calculating the percentage change of the subscribers,labelling green as positive growth rate and red as negative.
 
-
-![Quarterly subs](https://github.com/Kamuthuj/Netflix-customer-forecasting/assets/121629618/7813dbc6-17b9-4f75-92a7-e86cf60ebe92)
+![Quarterly subs](https://github.com/Kamuthuj/Netflix-customer-forecasting/assets/121629618/9a1970bd-e6ea-4b9a-a823-e12943ca5327)
 
 
